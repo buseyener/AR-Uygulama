@@ -6,7 +6,7 @@ AR Teknolojisi ile Mobil Uygulama AR Tabanlı Mobil Uygulama Geliştirme
 
 
 
-Yazılım Geliştirme Labarotuvarı Proje 1 olarak bize verilen bu ödevde 32. Grup olarak ARCore teknolojisini ile bir mobil uygulama tasarladık.
+
 
 Proje Özeti:
 
